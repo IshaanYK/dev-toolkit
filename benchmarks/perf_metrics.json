@@ -1,12 +1,12 @@
 {
   "benchmarks": {
-    "slugify_10k_ops_sec": 67368.0088,
-    "sha256_throughput_mb_s": 402.5149,
-    "rate_limiter_latency_us": 1.2943
+    "slugify_10k_ops_sec": 66570.7398,
+    "sha256_throughput_mb_s": 404.0462,
+    "rate_limiter_latency_us": 1.3124
   },
   "status": "passing",
   "quality_index": 99.1,
-  "last_evaluated": "2026-10-16T00:02:11Z",
-  "evaluation_cycle": 1719,
-  "telemetry_signature": "8c76581cb924"
+  "last_evaluated": "2026-10-16T00:04:11Z",
+  "evaluation_cycle": 1720,
+  "telemetry_signature": "2a2b4b8402de"
 }
